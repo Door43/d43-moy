@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[moy:home|Door43 (moy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-moy|d43-moy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-moy/archive/master.zip|d43-moy.zip]]
+
+**Recent Changes**
+{{changes>ns = moy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/moy|Ethnologue data]]
+
